@@ -98,7 +98,7 @@
 ### 🔎 Seminar Proceedings 
 | Date       | Title & Topic                                                     | 
 |------------|-------------------------------------------------------------------|
-| 2023-06-10 | Feature Fusion Transferability Aware Transformer for Unsupervised Domain Adaptation     |
+| 2025-06-10 | Feature Fusion Transferability Aware Transformer for Unsupervised Domain Adaptation     |
 | 2023-05-20 | Transfer Learning with Dynamic Adversarial Adaptation Network     |
 | 2023-04-28 | Fault Detection and Identification Based on Image Processing and Deep Learning |
 | 2023-03-03 | DG-Font: Deformable Generative Networks for Unsupervised Font Generation |
