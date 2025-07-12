@@ -46,7 +46,7 @@
   
   ● Master's thesis: "Unsupervised Adversarial Domain Adaptation with Pseudo Label"
   
-  ● Major Advisor: Hyunseung Choo, Jongpil Jeong
+  ● Major Advisor: Prof. Hyunseung Choo, Prof. Jongpil Jeong
   
 - **B.S., Department of Telecommunication Engineering**, Soonchunhyang University (2014. 03 - 2021. 02)
 
