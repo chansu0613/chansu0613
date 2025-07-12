@@ -55,6 +55,7 @@
 ### 🔎 Research Interests
 - Computer Vision
 - Domain Adaptation
+- Image Classification / Recognition
 
 ---
 
