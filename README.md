@@ -44,9 +44,9 @@
 ### 📚 Education
 - **M.S., Department of Electrical and Computer Engineering**, Sungkyunkwan University (2021. 03 - 2025. 08)
   
-  ● Master's thesis: "Unsupervised Adversarial Domain Adaptation with Pseudo Label"
+  ● **Master's thesis**: "Unsupervised Adversarial Domain Adaptation with Pseudo Label"
   
-  ● Major Advisor: Prof. Hyunseung Choo, Prof. Jongpil Jeong
+  ● **Major Advisor**: Prof. Hyunseung Choo, Prof. Jongpil Jeong 
   
 - **B.S., Department of Telecommunication Engineering**, Soonchunhyang University (2014. 03 - 2021. 02)
 
